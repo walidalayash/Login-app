@@ -1,2 +1,2 @@
 # Login-app
-Login with Facebook and Sign with Google
+Login with Facebook and Sign in with Google
